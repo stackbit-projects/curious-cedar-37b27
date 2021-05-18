@@ -42,3 +42,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+domain: 'https://curious-cedar-37b27.netlify.app'
